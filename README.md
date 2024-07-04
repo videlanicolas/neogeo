@@ -9,5 +9,5 @@ Get the tools:
 
 ```bash
 $ sudo apt-get update
-$ sudo apt-get install binutils-m68k-linux-gnu
+$ sudo apt-get install binutils binutils-m68k-linux-gnu
 ```

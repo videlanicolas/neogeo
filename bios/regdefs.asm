@@ -31,7 +31,6 @@ USER                        equ $122
 PLAYER_START                equ $128
 COIN_SOUND                  equ $134
 
-
 ; BRAM
 P1_CREDITS_BCD              equ $D00034
 

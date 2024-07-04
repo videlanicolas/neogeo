@@ -1,0 +1,8 @@
+# Ignore all vasm output.
+vasm*
+
+# Ignore the compiled binaries.
+bin
+
+# Ignore the BIOS zip file.
+*.zip
